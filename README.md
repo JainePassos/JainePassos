@@ -15,7 +15,6 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
-  <br>
   
-    ![Snake animation](https://github.com/JainePassos/JainePassos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JainePassos/JainePassos//blob/output/github-contribution-grid-snake.svg)
  
