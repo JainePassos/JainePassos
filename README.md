@@ -1,6 +1,6 @@
 ### Hii! Eu sou Jaíne Passos
 <div style="display: inline_block">
- <img align="right" src="https://i.picasion.com/pic92/21080ea895c55b5f0990eab64c23d592.gif" width="100" height="150" border="0" alt="https://picasion.com/">
+ <img align="right" src="https://i.picasion.com/pic92/21080ea895c55b5f0990eab64c23d592.gif" width="300" height="400" border="0" alt="https://picasion.com/">
  </div>
 
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox)
@@ -11,9 +11,9 @@
  
  </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
   
   ![Snake animation](https://github.com/JainePassos/JainePassos/blob/output/github-contribution-grid-snake.svg)
