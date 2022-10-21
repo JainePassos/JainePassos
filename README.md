@@ -1,13 +1,17 @@
 ### Hii! Eu sou Jaíne Passos
-<div style="display: inline_block">
- <img align="right" src="https://i.picasion.com/pic92/21080ea895c55b5f0990eab64c23d592.gif" width="300" height="400" border="0" alt="https://picasion.com/">
+<div aling="center">
+ <img align="right" src="https://i.picasion.com/pic92/21080ea895c55b5f0990eab64c23d592.gif" width="90" height="100" border="0" alt="https://picasion.com/">
  </div>
 
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ja%C3%ADne-passos-62a7b0215/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaiiiiiiine/)
  
- ![JainePassos GitHub stats](https://github-readme-stats.vercel.app/api?username=JainePassos&show_icons=true&theme=cobalt)
+ <div align="center">
+  <a href="https://github.com/JainePassos">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JainePassos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainePassos&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
  
  </div>
 <div style="display: inline_block"><br>
