@@ -1,7 +1,4 @@
 ### Hii! Eu sou Jaíne Passos
-<div aling="center">
- <img align="right" src="https://i.picasion.com/pic92/21080ea895c55b5f0990eab64c23d592.gif" width="90" height="100" border="0" alt="https://picasion.com/">
- </div>
 
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainepassos91@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ja%C3%ADne-passos-62a7b0215/)
