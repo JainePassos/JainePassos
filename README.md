@@ -4,7 +4,7 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ja%C3%ADne-passos-62a7b0215/)
  
  
- <div align="center">
+ <div align="end">
   <a href="https://github.com/JainePassos">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JainePassos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainePassos&layout=compact&langs_count=7&theme=cobalt"/>
